@@ -1,0 +1,27 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    border-top: 3px solid white;
+    text-align: center;
+    border-bottom: 1px dotted white;
+}
+
+.img {
+    width: 139px;
+    height: 168px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+
+.pacman {
+    border-top: 25px solid yellow;
+    border-right: 25px solid yellow;
+    border-bottom: 25px solid yellow;
+    border-left: 25px solid transparent;
+    border-radius: 50%;
+    position: absolute;
+}
